@@ -1,6 +1,6 @@
 POINTS TO NOTE 
 green=2,amber=3,red=4,pedamber=5,pedgreen=6,pedred=7,pushbutton=8
-*/
+
 
 // variable Declaration
 unsigned long time_counter,prev_counter=0;
